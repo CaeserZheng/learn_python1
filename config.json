@@ -1,0 +1,6 @@
+{
+    "src":          "C:/mypython/cloud_lab",
+    "dest":         "qiniu:access_key=kIqyOV6XBtP5NvvXmoWHdp0uRxkdtRTlQcpQOmD1&secret_key=LvkTLk_dy8RxJDE_bPi4VZ-SNI_BdoLklvXeowo0&bucket=zhenggl",
+    "deletable":    0,
+    "debug_level":  1
+}
